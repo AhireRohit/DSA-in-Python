@@ -1,0 +1,26 @@
+A method calls itself
+Exit from infinit loop
+
+# def recrussionMethod(parameters):
+#     if exit from condition satisfied:
+#         return some value
+#     else:
+#         recrussionMethod(modified parameters)
+
+
+def firstMethod():
+    secondMethod()
+    print("I am the first method")
+
+def secondMethod():
+    thirdMethod()
+    print("I am the second method")
+
+def thirdMethod():
+    thirdMethod()
+    print("I am the third method")
+
+def fourthMethod():
+    print("I am the fourth method")
+
+firstMethod()

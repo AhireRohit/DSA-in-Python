@@ -1,0 +1,13 @@
+Algorithm is a set of steps to complete a task.
+
+e.g First buy books --> sort them according to genre --> then shelve them
+
+Learnig about different algorithms and knowing when to apply them allows us to write time and memory efficient programs.
+
+Algorithm how google and facebook transmit live video accross the internet --> They use audio and video compression algorithm to transmit data.
+
+Google map uses the map algorithm to find the shortest path on map.
+
+Optimization and Scheduling algorithm are used by NASA to arrange the solar panels in international space station.
+
+What makes algorith good? --> It's correctness and Efficiency.

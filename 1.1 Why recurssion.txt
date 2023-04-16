@@ -1,0 +1,19 @@
+Recursive thinking is very important in programming and it helps you break down big problems into smaller ones and easier to use.
+
+For iteration recursive codes are easy to write.
+
+Iteration and recursion are different.
+Sometimes iteration is used over recursion. Depending which method helps in faster programming.If program can be divided then recursion.
+
+
+If problem statement starts with following statements then it is recursion:-
+    - If you can divide the problem into smaller subparts
+    - Design an algorithm to compute nth.....
+    - Write code to list the n.....
+    - Implement a method to compute all.....    
+
+The prominent usage of recursion in data structures like trees and graphs
+Whenever we are using graph recurssion becomes almost mandatory.
+
+It is used in many algorithms like divide and conquer, Greedy and Dynamic algorithms.
+

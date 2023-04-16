@@ -1,0 +1,8 @@
+Data structures are different ways of organizing data on computer that can be used effectively.
+
+e.g If there is collection of many books on the floor and we have to find any one specific then we have to go through all the collection.
+But data structures help us organize them to efficiently find the books. 
+
+Same works for softwares as well. Before processing the data , the data has to be organized in a way to make the operations efficient.
+The efficiency of software depends on how he data is stored, organized and grouped during programming process.
+

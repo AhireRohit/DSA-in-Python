@@ -1,0 +1,9 @@
+Big O is the language and metric we use to describe the efficiencyof algorithms.
+
+e.g. Suppose you want to transfer a 1tb file electronically it takes more then one day. 
+But if that file is needed urgently we can take that file in HDD and take a flight to another country to deliver it.
+
+In computer science terms the above e.g. is called Time Complexity.
+
+It shows how the runtime increases as the input increases.
+Some algorithms are faster when inputs are small , they get slower when the input gets larger.

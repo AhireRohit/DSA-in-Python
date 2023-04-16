@@ -1,0 +1,6 @@
+Why is data structures and algorithms important?
+
+As a software developer our responsibility is to perform operations on data.
+Basically we have to take data as input --> process it --> and use the processed data as input.
+
+Input can be in any format ..... e.g. Google Maps take Starting and ending location as input, by using graph algorithm and dataset gmap helps us find the shortest path.

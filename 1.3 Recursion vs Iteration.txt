@@ -1,0 +1,3 @@
+1. Space efficient? --> No stack memory is required in iteration.But required in recursion.
+2. Time efficient? --> Recursion needs to pop and push elements to stack memory so it takes more as compared to iteration.
+3. Easy to code? --> Recursion is mainly used if we know thata the problem can be divided into smaller problems.

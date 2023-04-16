@@ -1,0 +1,2 @@
+A list is a data structure that holds an ordered collection of items.
+List can contain items of different datatypes

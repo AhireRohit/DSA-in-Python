@@ -1,0 +1,8 @@
+1. Single linked list --> each node stores value and reference to next node. Next node has no reference to previous node. Last node has only value no reference.
+
+2. Circular Single linked list --> It resembles the single linked list.It has 2 reference the reference from previous node and reference to next node. 
+e.g. music player music change buttons, we can navigate next and previous.
+
+3. Doubly linked list --> here last node has reference of first node. We can go to first node from last. 
+
+4. Circular Doubly linked list --> here last node has reference of first node. We can go to first node from last.   

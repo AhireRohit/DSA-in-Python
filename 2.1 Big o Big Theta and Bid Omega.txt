@@ -1,0 +1,17 @@
+1. Big O --> It is a complexity that is going to be less or equal to the worst case.
+e.g. Suppose we have to sort 1000 numbers and it takes maximum 10sec to solve according to algorithm. So, it will take 10 sec or less than 10 but not more.
+
+e.g. in reference to example of big Theta time required for each element is 1 ms --> Big O - O(N)
+
+2. Big Omega (Ω) --> It is the complexity that is going to be atleast more than the best case.We find the minimum time that we need to execute an algorithm.
+If the best case scenario for any algorithm is 2 sec then it will never be less than 2 sec.
+e.g. Suppose we have to sort 100 numbers and we know that in the best case it takes 2 sec ..... it will never be less than 2 sec.
+
+e.g. in reference to example of big Theta time required for each element is 1 ms --> Big Ω - Ω(1)
+
+3. Big Theta (Θ) --> Average time
+
+e.g. Suppose we have array of 100 numbers and we have to find any nth number then we have to go through each and every element of array. Suppose each element takes 1 ms
+then total time take is 100 ms.
+
+Big Θ - Θ(n/2)

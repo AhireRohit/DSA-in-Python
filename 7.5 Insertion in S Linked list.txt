@@ -1,0 +1,9 @@
+At the beginning of the linked list.
+After a node in the middle of linked list.
+At the end of the linked list.
+
+When adding node in middle or end we have to do traversing first.
+
+Suppose we need to add 3 after 2 in list of [1, 2, 4, 5] we need to traverse from 0 to 2 then add 3.
+Suppose we need to add 6 at the end of the list of [1, 2, 4, 5] we need to traverse from 0 to 5 then add 6.
+

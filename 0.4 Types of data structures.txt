@@ -1,0 +1,13 @@
+
+Primitive --> subdivied into --> INT, FLOAT, CHAR, STRING, BOOLEAN
+
+Non-primitive Data structures --> They can formed by combining 2 or more primitive datatypes.
+
+Non-primitive --> subdivied into --> LINEAR and NON LINEAR
+
+In Linear data is arranged in sequential order, allocation can be Static or Dynamic.
+Static --> subdivied into --> ARRAYS
+Dynamic --> subdivied into --> LINKED LIST, QUEUE, STACK
+
+In Non Linear data item is connected to several other data items.They are not organized sequentially.
+Non Linear --> subdivied into --> TREE, GRAPH

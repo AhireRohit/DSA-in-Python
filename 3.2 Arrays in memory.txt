@@ -1,0 +1,16 @@
+One - Dimensional array is arranged in 1D --> [1, 2, 3] --> arranged as --> [1, 2, 3]
+
+Two - Dimensional array is also arranged in 1D -->  [1, 2, 3     --> arranged as --> [1, 2, 3, 4, 5, 6, 7, 8, 9]
+                                                     4, 5, 6
+                                                     7, 8, 9]
+
+
+Three - Dimensional array is --> [[[0, 1, 2],           --> arranged as --> [0,1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                   [3, 4, 5]],
+
+                                   [[6, 7, 8],
+                                   9, 10, 11]],
+
+                                   [[12, 13, 14],
+                                   [15, 16, 17]]
+

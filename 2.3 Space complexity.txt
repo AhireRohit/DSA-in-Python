@@ -1,0 +1,3 @@
+Space complexity is the measure of amount of work storage an algorithm needs.(How much memory needed.)
+
+in recursion if n = 5 then loop runs 5 times ..... if n = 10 loops runs 10 times and take more stack space.

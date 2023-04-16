@@ -1,0 +1,8 @@
+                                        Time complexity                                  Space complexity
+
+Creating an empty array                 O(1)                                             O(N)
+Inserting a value in array              O(1)/O(N) [explanation in 3.4]                   O(1)
+Transversing a given array              O(N)                                             O(1)
+Accessing a given cell                  O(1)                                             O(1)
+Searching a given value                 O(N)                                             O(1)
+Deleting a given value                  O(1)/O(N) [after deleting elements move left]    O(1)

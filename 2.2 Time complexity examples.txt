@@ -1,0 +1,21 @@
+O(1) --> Constant one or oder of one --> For any given input execution time will not change.
+e.g. 
+    array = [15, 52, 298, 20]
+    array[0]
+    array[3]
+    Both the above indexes take the same time.Because they don't have to search through each and every element.
+
+O(N) --> Liner time complexity --> Time complexity will grow in direction, proportion to the size of input data.
+e.g. Suppose there is array. To print the values of array we use a for loop. The time required for the program to execute increas3es with increase in array elements.
+
+O(LogN) --> Logarithmetic Time complexity --> 
+e.g. 
+
+O(N^2) --> Quadratic time -->Time complexity is directly proportional to input data set.
+e.g. array = [1, 2, 3, 4, 5]
+        for x in array:
+            for y in array:
+                print(x, y)
+
+O(2^N) --> Exponential time complexity --> it denote the algorithmwhose time complexity grows with each addition to the inputs.
+

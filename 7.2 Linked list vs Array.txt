@@ -1,0 +1,4 @@
+Elements if linked list are independent objects.
+The size of linked list is not predefined. Array size is defined.
+Insertion and removal in Linked list are very efficient. In array if element is removed other have to move. But in case of linked list just move the links.
+Accessing an element is easy in array.

@@ -1,0 +1,9 @@
+Recursion --> A way of solving problems by having a function call itself.
+
+The technique for making the problem smaller and smaller is called Recursion.
+
+Properties:-
+    Performing the same operation multiple times with different inputs.
+    In every step we try smaller inputs to make the problem smaller. This makes it easier to find the solution in the end.
+    Base condition is needed to stop the recursion, otherwise infinite loop will occur. We will stop the recursion because we either found the answer or the answer does not exist.
+

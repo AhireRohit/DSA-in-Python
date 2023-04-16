@@ -1,0 +1,18 @@
+Type of algorithm are:
+    Simple recursive algorithm
+    Divide and conquer algorithm
+    Dynamic programming algorithm
+    Greedy algorithm
+    Brute force algorithm
+    Randomized algorithm
+
+
+1. Simple recursive algorithm --> works as iterative algorithm
+2. Divide and conquer --> it works in 2 steps : firstly problem divided into smaller problems and solved recursively : 
+                          secondly combine the solution to the subproblems into the original problem
+                          e.g. QUICK SORT & MERGE SORT
+3. Dynamic programming algorithm --> it works on memorization and helps to find the best solution
+4. Greedy algorithm --> We take the best we can without worrying about the future consequence.
+                        We hope that choosing a local optimum solution at each step, we will end up at a global optimum solution.
+5. Brute force algorithm --> It tries all the possibilities until the satisfactory  solution is found
+6. Randomized algorithm --> Use a random number atleast once during the  computation to make a decision.
